@@ -42,7 +42,6 @@ The app consists of a single `MainActivity` that:
 
 ## Requirements
 - Android device or emulator
-- Minimum SDK version: *(Not specified in provided code)*
 - A system app capable of handling alarm intents
 
 ## Setup Instructions
